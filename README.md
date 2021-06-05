@@ -21,14 +21,14 @@ Desenvolvimento de Apps Hibridos
 ### Entendendo e usando o NPM
  
 
-### Usando o React Native
+- Usando o React Native
 
-### Aprendendo React Primeiro
-### Usando setState()
-### Usando o CodePen
-### Primeiros Códigos
-### Assimilação 
-### Usando o Babel
+- Aprendendo React Primeiro
+- Usando setState()
+- Usando o CodePen
+- Primeiros Códigos
+- Assimilação 
+- Usando o Babel
  
 
 ## Desenvolvimento de Projeto em React 
@@ -38,8 +38,8 @@ Desenvolvimento de Apps Hibridos
 ### Finalização
 
 ### Setup Android 
-Expo 
-Setup iOS
+- Expo 
+- Setup iOS
 ### Codificando
- Execicio de Enciclopedia
+- Execicio de Enciclopedia
 ### Considerações Finais 
