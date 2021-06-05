@@ -1,0 +1,35 @@
+Passo 1
+https://reactnative.dev/docs/environment-setup
+**LER DOCUMENTAÇÃO**
+
+Passo 2
+https://nodejs.org/en/download/
+
+Passo 3
+Baixar *windows terminal* na Microsoft Store
+
+Passo 4
+Executar Windows PowerShell com -> choco install -y nodejs.install openjdk8 (DOCUMENTAÇÃO)
+
+Passo 5
+Install Android Studio
+
+Passo 6
+Condigure Android Studio SDK Manager Checked -> Android 9.0 (Pie)
+Condigure Android Studio SDK Manager Checked -> Android 10.0 (Pie)
+
+Passo 7
+Condigure Android Studio AVD Maneger Verificar se Ja existe o emulador
+
+Passo 8 
+Configurar Variaveis de Ambiente -> ANDROID_HOME e link da pasdas do Androis em AppData
+
+Passo 9
+Criar Projeto React Native
+-> mkdir "nome"
+-> cd \"nome"\
+-> npx react-native init AwesomeProject
+
+Passo 10
+C:\"nome"> cd .\AwesomeProject\
+C:\"nome"\AwesomeProject> npx react-native run-android
