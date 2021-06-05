@@ -41,5 +41,4 @@ Desenvolvimento de Apps Hibridos
 - Expo 
 - Setup iOS
 ### Codificando
-- Execicio de Enciclopedia
-### Considerações Finais 
+- Exercicio de Enciclopedia
